@@ -1,8 +1,10 @@
 ---
-title: About
-description: A simple page about this site
+title: Welcome to SimplTech Blog
+description: 'We share latest tech products and software updates '
 
 ---
-# About
+# SimplTech Blog
 
-This VuePress theme was imported in [Forestry](https:://forestry.io), a git-backed headless CMS.
+This blog is a collection of posts and updates that help you in understanding latest Tech news, product launches and software.
+
+We will also provide some guides on various topics that we hope helps you 
